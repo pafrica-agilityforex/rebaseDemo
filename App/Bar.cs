@@ -1,6 +1,6 @@
 ﻿namespace Lib
 {
-    internal class Bar
+    public class Bar
     {
     }
 }
