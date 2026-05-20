@@ -2,5 +2,11 @@
 {
     internal class Bar
     {
+        public double ChangeZ { get; set; }
+        public int ChangeForRebase { get; set; }
+        public int ChangeForRebase2 { get; set; }
+        public int Change1 { get; set; }
+        public bool Change2 { get; set; }
+        // some comment
     }
 }
